@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description" : "This plug-in give you a message when your keyboard Caps Button is OFF/ON.",
   "keywords" : ["item", "CapsOn", "CapsOFF"],
-  "homepage" : "https://github.com/sattuvirus/Oracle-Apex-Plugins-Caps-On-Off-1.0",
+  "homepage" : "https://github.com/sattuvirus/Oracle-Apex-Plugins-Caps-On-Off",
   "license" : "JavaInHand",
   "author" : {
     "name" : "Satish Yadav",
@@ -11,7 +11,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/sattuvirus/Oracle-Apex-Plugins-Caps-On-Off-1.0.git"
+    "url" : "https://github.com/sattuvirus/Oracle-Apex-Plugins-Caps-On-Off.git"
   },
  "oracle" : {
     "versions": ["11.2.0.1", "12.1.0.1", "12.2.0.1"],
@@ -19,7 +19,7 @@
       "versions": ["5.1.0", "5.1.1", "5.1.2", "5.1.3", "5.1.4", "18.1.0", "18.2.0"],
       "plugin" : {
         "internalName" : "APEX.CAPSON.CAPSOFF.PLUGINS",
-        "type" : "Item",
+        "type" : "item",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=12029:18"
        }
     }
