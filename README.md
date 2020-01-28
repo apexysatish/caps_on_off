@@ -9,5 +9,9 @@ The Oracle Apex Caps On Off plugin lets you info client-side error message witho
 ### Demo
 [Find a demo here](https://apex.oracle.com/pls/apex/f?p=12029:18)
 
+Preview
+
+https://github.com/sattuvirus/caps_on_off/blob/master/preview.gif
+
 ### Suggestions?
 Open an issue, and provide as much detail as possible.
