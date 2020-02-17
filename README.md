@@ -13,5 +13,7 @@ Preview
 
 https://github.com/sattuvirus/caps_on_off/blob/master/preview.gif
 
+![Screenshot](https://github.com/sattuvirus/caps_on_off/blob/master/preview.gif)
+
 ### Suggestions?
 Open an issue, and provide as much detail as possible.
