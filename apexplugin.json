@@ -31,8 +31,8 @@
             "plugin": {
                 "internalName": "APEX.CAPSON.CAPSOFF.PLUGINS",
                 "type": "item",
-                "demo": "https://apex.oracle.com/pls/apex/f?p=12029:18"
-				"previewImage" : "https://raw.githubusercontent.com/sattuvirus/caps_on_off/master/preview.gif"
+                "demo": "https://apex.oracle.com/pls/apex/f?p=12029:18",
+              "previewImage" : "https://raw.githubusercontent.com/sattuvirus/caps_on_off/master/preview.gif"
             }
         }
     }
